@@ -1,0 +1,29 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 4f22768..0793164 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -11,4 +11,8 @@[m [mAnd lists too:[m
+   + Item 2[m
+   + Item 3[m
+ [m
+[31m-For more information about Markdown syntax, see the [Markdown Guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).[m
+\ No newline at end of file[m
+[32m+[m[32mFor more information about Markdown syntax, see the [Markdown Guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).[m
+[32m+[m
+[32m+[m[32mAdding some lines to the README file![m[41m [m
+[32m+[m
+[32m+[m[32mAdding some more lines to the read me file[m[41m [m
+\ No newline at end of file[m
+[1mdiff --git a/my_script.py b/my_script.py[m
+[1mindex 61431db..2660f54 100644[m
+[1m--- a/my_script.py[m
+[1m+++ b/my_script.py[m
+[36m@@ -15,4 +15,5 @@[m [mprint(x)[m
+ # don't forget that they are comments[m
+ # don't forget to control save as well otherwise these changes will show [m
+ #up on github desktop if you need to make another commit [m
+[31m-# modifying something or whatever [m
+\ No newline at end of file[m
+[32m+[m[32m# modifying something or whatever[m[41m [m
+[32m+[m[32m#more modifying[m
+\ No newline at end of file[m
