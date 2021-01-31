@@ -7,3 +7,12 @@ print("HELLO WORLD!")
 
 x = 2 + 2
 print(x)
+
+
+#modifying python
+# don't forget to save 
+# these lines are comments 
+# don't forget that they are comments
+# don't forget to control save as well otherwise these changes will show 
+#up on github desktop if you need to make another commit 
+# modifying something or whatever 
